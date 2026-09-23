@@ -96,17 +96,6 @@ ui <- fluidPage(
   div(class = "cat-header",
       h1("🐱Котики считают задачи🌸")
   ),
-  # 🎓 МАСКОТ УНИВЕРСИТЕТА
-  div(style = "text-align: center; margin-bottom: 24px;",
-      tags$video(
-        src = "elk_cat.webm",
-        width = "200",
-        autoplay = NA,
-        loop = NA,
-        muted = NA,
-        style = "border-radius: 6px; box-shadow: 0 2px 8px rgba(31,58,95,0.15);"
-      )
-  ),
   
   sidebarLayout(
     sidebarPanel(
