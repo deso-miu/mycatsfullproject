@@ -5,6 +5,6 @@ account: deso-miu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 18115464
-bundleId: 12659025
+bundleId: 12659053
 url: https://deso-miu.shinyapps.io/app_mascot/
 version: 1
